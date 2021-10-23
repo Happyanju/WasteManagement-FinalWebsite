@@ -1,0 +1,78 @@
+.index-h2{
+  color:green;
+}
+
+.Waste-Management{
+  width: 200px;
+  height: 200px;
+  background-img:url(img.01.jpg);
+  background-size:100%;
+  text-align: center;
+}
+
+.wrapper{
+  margin: 0 auto;
+  width: 80px;
+}
+.videowrapper{
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 25%;
+  height: 0px;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: #eee;
+}
+nav{
+  width: : 100%;
+  height: 100%;
+  background: blue;
+}
+ul{
+
+}
+ul li{
+list-style: none;
+display: inline-inline-block;
+float: left;
+}
+
+ul li a{
+  display: block;
+text-decoration: none;
+ font-size: 14px;
+ font-family: arial;
+ color: #1e1e1e;
+ padding: 0 20px;
+
+}
+
+*{
+margin: 0;
+padding: 0;
+  }
+html,body{
+  height: 100%;
+}
+
+#container{
+  min-height: 100%
+}
+
+#main{
+  overflow: auto;
+  padding-bottom: 100px;
+}
+
+#footer{
+  background-color: #000;
+  position: relative;
+  height: 100%;
+  margin-top: -100px;
+  clear: both;
+}
