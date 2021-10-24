@@ -2,6 +2,14 @@
   color:green;
 }
 
+img{
+  width: 45px;
+  height: 45px;
+}
+body{
+  background-image: url("img.01.jpg");
+  background-repeat: repeat-y;
+}
 .Waste-Management{
   width: 200px;
   height: 200px;
